@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L2_xo</string>
+    <string name="edit_text_p1">Player 1 insert name</string>
+    <string name="edit_text_p2">Player 2 insert name</string>
+    <string name="button_start_game">Start Game</string>
+    <string name="p1_name">Player One: </string>
+    <string name="p2_name">Player Two: </string>
+    <string name="player_to_move">Turn of: </string>
+</resources>
